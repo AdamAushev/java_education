@@ -11,6 +11,5 @@ public class Example2 {
             } else
                 System.out.println(i + " Не делится на 3 ");
         }
-
     }
 }
